@@ -41,7 +41,7 @@ python main.py
 ```
 
 ## Viewing the Database
-To view the SQLite database, use an SQLite database viewer like DB Browser for SQLite,
+To view the SQLite database, upload the .db file provide at https://sqliteviewer.app/ or use an SQLite database viewer like DB Browser for SQLite,
 or access it via the SQLite command-line tool:
 ```bash
 sqlite3 /path/to/your/databasefile.db
